@@ -1,6 +1,7 @@
 # Real-Time Stock Market Dashboard
 
 A comprehensive stock market dashboard built with React, TypeScript, and Tailwind CSS, featuring real-time data, AI predictions, and interactive charts.
+Website Published at `https://stocktraderspro.netlify.app`
 
 ## Features
 
