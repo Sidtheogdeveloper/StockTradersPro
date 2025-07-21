@@ -196,4 +196,4 @@ For issues and questions:
 
 ## Disclaimer
 
-This application is for educational and demonstration purposes. Stock market data and predictions should not be used as the sole basis for investment decisions. Always consult with financial advisors and conduct your own research before making investment decisions.
+This application is for demonstration purposes. Stock market data and predictions should not be used as the sole basis for investment decisions. Always consult with financial advisors and conduct your own research before making investment decisions.
